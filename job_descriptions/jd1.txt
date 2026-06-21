@@ -1,0 +1,2 @@
+We are looking for a Python developer with knowledge of machine learning, SQL, data analysis and problem solving skills. Candidate should be familiar with pandas, numpy and basic NLP concepts.
+``
