@@ -92,3 +92,4 @@ watchdog==6.0.0
 weasel==1.0.0
 websockets==16.0
 wrapt==2.2.2
+PyPDF2==3.0.1
