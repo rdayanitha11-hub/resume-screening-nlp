@@ -24,3 +24,4 @@ git clone https://github.com/rdayanitha11-hub/resume-screening-nlp.git
 cd resume-screening-nlp
 pip install -r requirements.txt
 streamlit run app.py
+"# Force redeploy" 
